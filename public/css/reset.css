@@ -1,0 +1,13 @@
+span.required{
+    color: red;
+}
+
+label.col-form-label.col-form-label-sm.blk{
+    color: #000;
+    font-weight: bold;
+    font-size:15px;
+}
+
+p.uline{
+    border-bottom: 1px solid #e3e6f0;
+}
